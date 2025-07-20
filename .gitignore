@@ -10,4 +10,3 @@ venv/
 /logs
 
 logs/*
-!logs/.gitkeep
