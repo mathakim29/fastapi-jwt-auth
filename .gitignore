@@ -7,6 +7,5 @@ __pycache__/
 # Optional: ignore virtualenv
 venv/
 .env/
-/logs
 
 logs/*
