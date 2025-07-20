@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic[email]
+python-jose
+argon2-cffi
+duckdb
+nanoid
+python-multipart
