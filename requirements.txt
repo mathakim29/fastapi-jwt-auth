@@ -6,3 +6,4 @@ argon2-cffi
 duckdb
 nanoid
 python-multipart
+pyyaml
