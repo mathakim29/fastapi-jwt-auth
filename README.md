@@ -15,6 +15,9 @@ This project is an API system built using FastAPI with JWT-based authentication 
    git clone https://github.com/yourusername/yourrepo.git
    cd yourrepo
    ```
-2. Run init.sh
+2. Run this command
+   ```bash
+   uv run uvicorn main:app --reload
+   ```
 
-### Note: This is tested on Fedora 40
+#### Note: This is tested on Fedora 40
